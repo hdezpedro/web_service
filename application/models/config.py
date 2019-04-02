@@ -1,9 +1,9 @@
 import web
 
-db_host = 'localhost'
-db_name = 'kuorra_login'
-db_user = 'kuorra'
-db_pw = 'kuorra.2018'
+db_host = 'bfjrxdpxrza9qllq.cbetxkdyhwsb.us-east-1.rds.amazonaws.com'
+db_name = 'nvfeh2ysrhosai9j'
+db_user = 'ylvz82qx3ecwkhfx'
+db_pw = 'd1bsacja01ga1yzh'
 
 db = web.database(
     dbn='mysql',
