@@ -1,9 +1,9 @@
 import web
 
-db_host = 'bfjrxdpxrza9qllq.cbetxkdyhwsb.us-east-1.rds.amazonaws.com'
-db_name = 'nvfeh2ysrhosai9j'
-db_user = 'ylvz82qx3ecwkhfx'
-db_pw = 'd1bsacja01ga1yzh'
+db_host = 'c9cujduvu830eexs.cbetxkdyhwsb.us-east-1.rds.amazonaws.com'
+db_name = 'gd7xbh7954ibet3a'
+db_user = 'jpvvtc47xwq2fevo'
+db_pw = 'kka07146j8xyquwl'
 
 db = web.database(
     dbn='mysql',
